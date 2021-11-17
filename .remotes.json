@@ -1,5 +1,11 @@
 [
   {
+    "package": "ashr",
+    "url": "https://github.com/stephens999/ashr",
+    "via": ["limorhyde2"],
+    "from": "limorhyde2"
+  },
+  {
     "package": "metapredict",
     "url": "https://github.com/hugheylab/metapredict",
     "via": ["zeitzeiger"],

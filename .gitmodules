@@ -53,6 +53,11 @@
 	url = https://github.com/hugheylab/seeker
 	shallow = true
 	registered = true
+[submodule "ashr"]
+	path = ashr
+	url = https://github.com/stephens999/ashr
+	shallow = true
+	registered = false
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
