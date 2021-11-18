@@ -3,11 +3,6 @@
 	url = https://github.com/hugheylab/universe
 	shallow = true
 	branch = HEAD
-[submodule "metapredict"]
-	path = metapredict
-	url = https://github.com/hugheylab/metapredict
-	shallow = true
-	registered = true
 [submodule "zeitzeiger"]
 	path = zeitzeiger
 	url = https://github.com/hugheylab/zeitzeiger
@@ -56,6 +51,11 @@
 [submodule "ashr"]
 	path = ashr
 	url = https://github.com/stephens999/ashr
+	shallow = true
+	registered = false
+[submodule "metapredict"]
+	path = metapredict
+	url = https://github.com/hugheylab/metapredict
 	shallow = true
 	registered = false
 [submodule "xml2"]
