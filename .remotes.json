@@ -6,12 +6,6 @@
     "from": "limorhyde2"
   },
   {
-    "package": "metapredict",
-    "url": "https://github.com/hugheylab/metapredict",
-    "via": ["zeitzeiger"],
-    "from": "zeitzeiger"
-  },
-  {
     "package": "xml2",
     "url": "https://github.com/r-lib/xml2",
     "via": ["pmparser"],

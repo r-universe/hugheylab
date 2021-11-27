@@ -53,11 +53,6 @@
 	url = https://github.com/stephens999/ashr
 	shallow = true
 	registered = false
-[submodule "metapredict"]
-	path = metapredict
-	url = https://github.com/hugheylab/metapredict
-	shallow = true
-	registered = false
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
