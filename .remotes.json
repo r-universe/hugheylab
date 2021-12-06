@@ -4,11 +4,5 @@
     "url": "https://github.com/stephens999/ashr",
     "via": ["limorhyde2"],
     "from": "limorhyde2"
-  },
-  {
-    "package": "xml2",
-    "url": "https://github.com/r-lib/xml2",
-    "via": ["pmparser"],
-    "from": "pmparser"
   }
 ]
