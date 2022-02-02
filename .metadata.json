@@ -6,7 +6,8 @@
     "package": "deltaccd"
   },
   {
-    "package": "tipa"
+    "package": "tipa",
+    "oncran": false
   },
   {
     "package": "limorhyde"
