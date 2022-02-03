@@ -7,7 +7,7 @@
   },
   {
     "package": "tipa",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "limorhyde"
