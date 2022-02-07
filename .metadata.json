@@ -16,7 +16,8 @@
     "package": "simphony"
   },
   {
-    "package": "spectr"
+    "package": "spectr",
+    "oncran": false
   },
   {
     "package": "pmparser"
