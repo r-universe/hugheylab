@@ -13,7 +13,8 @@
     "package": "limorhyde"
   },
   {
-    "package": "simphony"
+    "package": "simphony",
+    "oncran": false
   },
   {
     "package": "spectr",
