@@ -3,7 +3,8 @@
     "package": "zeitzeiger"
   },
   {
-    "package": "deltaccd"
+    "package": "deltaccd",
+    "oncran": false
   },
   {
     "package": "tipa",
