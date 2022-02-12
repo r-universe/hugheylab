@@ -4,7 +4,7 @@
   },
   {
     "package": "deltaccd",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tipa",
