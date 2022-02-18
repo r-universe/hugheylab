@@ -11,7 +11,8 @@
     "oncran": true
   },
   {
-    "package": "limorhyde"
+    "package": "limorhyde",
+    "oncran": false
   },
   {
     "package": "simphony",
