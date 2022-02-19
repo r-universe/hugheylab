@@ -12,7 +12,7 @@
   },
   {
     "package": "limorhyde",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "simphony",
