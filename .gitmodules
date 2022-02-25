@@ -48,8 +48,3 @@
 	url = https://github.com/hugheylab/seeker
 	shallow = true
 	registered = true
-[submodule "ashr"]
-	path = ashr
-	url = https://github.com/stephens999/ashr
-	shallow = true
-	registered = false
