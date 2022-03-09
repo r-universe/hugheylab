@@ -28,7 +28,7 @@
   },
   {
     "package": "limorhyde2",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "seeker"
