@@ -15,8 +15,7 @@
     "oncran": true
   },
   {
-    "package": "simphony",
-    "oncran": true
+    "package": "simphony"
   },
   {
     "package": "spectr",
