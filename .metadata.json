@@ -23,8 +23,7 @@
     "oncran": true
   },
   {
-    "package": "pmparser",
-    "oncran": true
+    "package": "pmparser"
   },
   {
     "package": "limorhyde2",
