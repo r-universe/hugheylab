@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/hugheylab/universe
-	shallow = true
 	branch = HEAD
-[submodule "zeitzeiger"]
-	path = zeitzeiger
-	url = https://github.com/hugheylab/zeitzeiger
-	shallow = true
-	registered = true
 [submodule "deltaccd"]
 	path = deltaccd
 	url = https://github.com/hugheylab/deltaccd
-	shallow = true
-	registered = true
-[submodule "tipa"]
-	path = tipa
-	url = https://github.com/hugheylab/tipa
-	shallow = true
-	registered = true
 [submodule "limorhyde"]
 	path = limorhyde
 	url = https://github.com/hugheylab/limorhyde
-	shallow = true
-	registered = true
-[submodule "simphony"]
-	path = simphony
-	url = https://github.com/hugheylab/simphony
-	shallow = true
-	registered = true
-[submodule "spectr"]
-	path = spectr
-	url = https://github.com/hugheylab/spectr
-	shallow = true
-	registered = true
-[submodule "pmparser"]
-	path = pmparser
-	url = https://github.com/hugheylab/pmparser
-	shallow = true
-	registered = true
 [submodule "limorhyde2"]
 	path = limorhyde2
 	url = https://github.com/hugheylab/limorhyde2
-	shallow = true
-	registered = true
+[submodule "pmparser"]
+	path = pmparser
+	url = https://github.com/hugheylab/pmparser
 [submodule "seeker"]
 	path = seeker
 	url = https://github.com/hugheylab/seeker
-	shallow = true
-	registered = true
+[submodule "simphony"]
+	path = simphony
+	url = https://github.com/hugheylab/simphony
+[submodule "spectr"]
+	path = spectr
+	url = https://github.com/hugheylab/spectr
+[submodule "tipa"]
+	path = tipa
+	url = https://github.com/hugheylab/tipa
+[submodule "zeitzeiger"]
+	path = zeitzeiger
+	url = https://github.com/hugheylab/zeitzeiger
