@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/hugheylab/universe
+	url = https://github.com/hugheylab/hugheylab.r-universe.dev
 	branch = HEAD
 [submodule "deltaccd"]
 	path = deltaccd
@@ -11,6 +11,9 @@
 [submodule "limorhyde2"]
 	path = limorhyde2
 	url = https://github.com/hugheylab/limorhyde2
+[submodule "phers"]
+	path = phers
+	url = https://github.com/hugheylab/phers
 [submodule "pmparser"]
 	path = pmparser
 	url = https://github.com/hugheylab/pmparser
